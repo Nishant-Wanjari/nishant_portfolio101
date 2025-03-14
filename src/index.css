@@ -1,0 +1,8 @@
+@import "tailwindcss";
+.text-justify {
+  text-align: justify;
+}
+
+*{
+  scroll-behavior: smooth;
+}
