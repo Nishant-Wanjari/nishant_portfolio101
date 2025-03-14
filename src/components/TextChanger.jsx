@@ -2,9 +2,9 @@ import React, { useEffect, useState } from "react";
 
 const TextChanger = () => {
   const textArray = [
-    "Hello, I am Nishant",
-    "Frontend Developer",
-    "AI/ML Enthusiast",
+    "Hello !!",
+    "I am Nishant",
+    "React Developer",
     "Java Developer",
   ];
 
